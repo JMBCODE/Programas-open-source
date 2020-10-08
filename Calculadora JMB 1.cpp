@@ -14,7 +14,6 @@ public:
 
 int main(int argc, char *argv[])
 {
-	//char* no = &no.opera
 	NumbersOperators no[MAX];
 	int i = 0;
 
